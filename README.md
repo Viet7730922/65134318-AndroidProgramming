@@ -1,6 +1,6 @@
-# 65134318-JavaProgramming
+# 65134318-AndroidProgramming
 
-## 📚 Bài tập và thực hành môn Java Programming
+## 📚 Bài tập và thực hành Lập trình Hệ điều hành Android
 
 ## 👨‍🎓 Thông tin sinh viên
 
