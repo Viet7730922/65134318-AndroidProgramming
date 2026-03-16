@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:text="DANH SÁCH CHỨC NĂNG"
+        android:textSize="20sp"
+        android:textColor="#333333"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button01"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#2196F3"
+        android:text="NÚT SỐ 1"
+        android:textColor="#FFFFFF"
+        app:cornerRadius="8dp" />
+
+    <Button
+        android:id="@+id/button02"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#4CAF50"
+        android:text="NÚT SỐ 2"
+        android:textColor="#FBE3E3"
+        app:cornerRadius="8dp" />
+
+    <Button
+        android:id="@+id/button03"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#FF5722"
+        android:text="NÚT SỐ 3"
+        android:textColor="#FFFFA2"
+        app:cornerRadius="8dp" />
+
+    <Button
+        android:id="@+id/button04"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#673AB7"
+        android:text="NÚT SỐ 4"
+        android:textColor="#FFC4FF"
+        app:cornerRadius="8dp" />
+
+</LinearLayout>
