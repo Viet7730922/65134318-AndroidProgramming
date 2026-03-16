@@ -41,7 +41,7 @@ Dưới đây là sơ đồ tổ chức thư mục chính:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │   ├── java/com/example/*_65134318   # Source code xử lý logic
+│   │   │   ├── java/ntu/viet773092/*_65134318   # Source code xử lý logic
 │   │   │   ├── res                           # Tài nguyên (Layout, Drawable, Values)
 │   │   │   └── AndroidManifest.xml           # Cấu hình ứng dụng
 │   └── build.gradle.kts                      # Cấu hình module app
