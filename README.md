@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/Gradle-9.2.1-darkblue?style=for-the-badge" alt="Gradle Version">
 </p>
 
+---
+### Bài Thực Hành 8 - Custom ListView (BaiTH8_TuyChinhLV)
+**Đường dẫn của MainActivity.java :** [https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH8_TuyChinhListView/app/src/main/java/ntu/viet773092/baiTh8_TuyChinhLV_65134318/MainActivity.java]
+<p align="center">
+  <img src="img\bTh8_tbLv.png" alt="Null" width="500" />
+</p>
+
+---
 ## 📚 Giới thiệu
 Kho lưu trữ các bài tập và project thực hành trong học phần **Lập trình Hệ điều hành Android**. Project được xây dựng nhằm tối ưu hóa trải nghiệm người dùng và áp dụng các kỹ thuật lập trình Android hiện đại.
 
