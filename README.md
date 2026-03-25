@@ -11,7 +11,7 @@
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH8_TuyChinhListView/app/src/main/java/ntu/viet773092/baiTh8_TuyChinhLV_65134318/MainActivity.java)<br>
 Ảnh Minh Họa:
 <p align="center">
-  <img src="img\bTh8_tbLv.png" alt="Null" width="500" />
+  <img src="img\bTh8_tbLv.png" alt="Null" width="800" />
 </p>
 
 ---
