@@ -17,6 +17,16 @@
 </p>
 
 ---
+### Bài Thực Hành 7 - ListView2 (BaiTH7_ListView2)
+**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH7_ListView2/app/src/main/java/ntu/viet773092/baiTh7_listView2_65314318/MainActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
+<p align="center">
+  <img src="img\bTh7_lv2.png" alt="Null" width="800" />
+</p>
+
+---
 ## 📚 Giới thiệu
 Kho lưu trữ các bài tập và project thực hành trong học phần **Lập trình Hệ điều hành Android**. Project được xây dựng nhằm tối ưu hóa trải nghiệm người dùng và áp dụng các kỹ thuật lập trình Android hiện đại.
 
