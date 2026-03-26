@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Gradle-9.2.1-darkblue?style=for-the-badge" alt="Gradle Version">
 </p>
 
+***Những bài tập thực hành của cá nhân***
 ---
 ### Bài Thực Hành 8 - Custom ListView (BaiTH8_TuyChinhLV)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH8_TuyChinhListView/app/src/main/java/ntu/viet773092/baiTh8_TuyChinhLV_65134318/MainActivity.java)<br>
@@ -24,6 +25,16 @@
 </p>
 <p align="center">
   <img src="img\bTh7_lv2.png" alt="Null" width="800" />
+</p>
+
+---
+### Bài Thực Hành 7 - Bổ Sung: Danh Sách Vật Liệu (BaiTH7_DanhSachVatLieu)
+**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH7_DanhSachVatLieu/app/src/main/java/ntu/viet773092/baiTh7_dsVatLieu_65134318/MainActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
+<p align="center">
+  <img src="img\bTh7_material.png" alt="Null" width="800" />
 </p>
 
 ---
