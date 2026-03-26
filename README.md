@@ -34,7 +34,7 @@
   Ảnh Minh Họa:
 </p>
 <p align="center">
-  <img src="img\bTh7_material.png" alt="Null" width="800" />
+  <img src="img\baiTh7_material.png" alt="Null" width="800" />
 </p>
 
 ---
