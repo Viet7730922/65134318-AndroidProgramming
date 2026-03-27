@@ -8,8 +8,21 @@
 
 ***Những bài tập thực hành của cá nhân***
 ---
-### Bài Thực Hành 9 - RecyclerView Part 2 (BaiTH9RecyclerViewPart2)
+### Bài Thực Hành 9 - Bài Tập Bổ Sung: RSS VNExpress Tin Tức Sức Khỏe
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](<br>
+<div align="center">
+  <img src="img/b9_rss_1.jpg" width="350" alt="Tin tức 1">
+  <br>
+  <img src="img/b9_rss_2.jpg" width="350" alt="Tin tức 2">
+  <br>
+  <img src="img/b9_rss_3.jpg" width="350" alt="Tin tức 3">
+  <br>
+  <img src="img/b9_rss_4.jpg" width="350" alt="Tin tức 4">
+</div>>
+
+---
+### Bài Thực Hành 9 - RecyclerView Part 2 (BaiTH9RecyclerViewPart2)
+**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH9RecyclerView/app/src/main/java/ntu/viet773092/th9_recylcerV_65134318/MainActivity.java)<br>
 <p style="margin-top: 10px;">
   Ảnh Minh Họa:
 </p>
