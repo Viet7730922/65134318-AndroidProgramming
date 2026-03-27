@@ -38,6 +38,16 @@
 </p>
 
 ---
+### Bài Thực Hành 2 - Linear Layout (BaiTH2_2)
+**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH2_2/app/src/main/java/com/example/sum2num_part2_65134318/MainActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
+<p align="center">
+  <img src="img\b2_2.png" alt="Null" width="500" height="450" />
+</p>
+
+---
 ### Bài Thực Hành 1 - HelloWorld (BaiTH1)
 <p style="margin-top: 10px;">
   Ảnh Minh Họa:
