@@ -43,7 +43,7 @@
   Ảnh Minh Họa:
 </p>
 <p align="center">
-  <img src="img\helloWorld.png" alt="Null" width="500" />
+  <img src="img\hi.png" alt="Null" width="500" />
 </p>
 
 ---
