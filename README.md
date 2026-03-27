@@ -38,7 +38,7 @@
 </p>
 
 ---
-### Bài Thực Hành 3 - Linear Layout (BaiTH2_2)
+### Bài Thực Hành 3 - Linear Layout (BaiTH3_LinearLayout)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH3_LinearLayout_Ver2/app/src/main/java/ntu/viet773092/th3_linearLayout_65134318/MainActivity.java)<br>
 <p style="margin-top: 10px;">
   Ảnh Minh Họa:
