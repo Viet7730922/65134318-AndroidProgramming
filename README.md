@@ -38,7 +38,7 @@
 </p>
 
 ---
-### Bài Thực Hành 4 - Linear Layout Tong2So (BaiTH4LinearLayout_Tong2So)
+### Bài Thực Hành 4 - Linear Layout Tong2So (BaiTH4 LinearLayout_Tong2So)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH4%20LinearLayout_Tong2So%20Version2/app/src/main/java/ntu/viet773092/th4_LLayout_sum2n_65134318/MainActivity.java)<br>
 <p style="margin-top: 10px;">
   Ảnh Minh Họa:
