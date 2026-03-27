@@ -20,6 +20,7 @@
     <td align="center"><img src="img\b9_rss_4.png" width="350" alt="Ảnh 4"></td>
   </tr>
 </table>
+
 ---
 ### Bài Thực Hành 9 - RecyclerView Part 2 (BaiTH9RecyclerViewPart2)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH9RecyclerView/app/src/main/java/ntu/viet773092/th9_recylcerV_65134318/MainActivity.java)<br>
