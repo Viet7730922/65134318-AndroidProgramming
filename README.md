@@ -18,7 +18,7 @@
   <img src="img/b9_rss_3.jpg" width="350" alt="Tin tức 3">
   <br>
   <img src="img/b9_rss_4.jpg" width="350" alt="Tin tức 4">
-</div>>
+</div>
 
 ---
 ### Bài Thực Hành 9 - RecyclerView Part 2 (BaiTH9RecyclerViewPart2)
