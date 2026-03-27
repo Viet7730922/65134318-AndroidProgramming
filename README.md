@@ -8,7 +8,7 @@
 
 ***Những bài tập thực hành của cá nhân***
 ---
-### Bài Thực Hành 9 - Bài Tập Bổ Sung: RSS VNExpress Tin Tức Sức Khỏe
+### Bài Thực Hành 9 - Bài Tập Bổ Sung: RSS VNExpress Tin Tức về Sức Khỏe
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/RSSSucKhoeVNExpress/app/src/main/java/ntu/viet773092/rss_sucKhoeVNExpress_65134318/MainActivity.java)<br>
 <table align="center">
   <tr>
