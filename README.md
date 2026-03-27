@@ -14,10 +14,14 @@
   Ảnh Minh Họa:
 </p>
 <p align="center">
-  <img src="img\b9_Part1_p1.png" alt="Null" width="800" />
+  <img src="img\b9_Part1_p1.png" alt="Ảnh 1" width="800" />
+  <br>
+  <span style="font-size: 14px; color: gray;">Ảnh 1</span>
 </p>
 <p align="center">
-  <img src="img\b9_Part1_p2.png" alt="Null" width="800" />
+  <img src="img\b9_Part1_p2.png" alt="Ảnh 2" width="800" />
+  <br>
+  <span style="font-size: 14px; color: gray;">Ảnh 2</span>
 </p>
 
 ---
