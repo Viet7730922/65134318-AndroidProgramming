@@ -8,6 +8,19 @@
 
 ***Những bài tập thực hành của cá nhân***
 ---
+### Bài Thực Hành 9 - RecyclerView Part 1 (BaiTH9RecyclerView)
+**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH9RecyclerView/app/src/main/java/ntu/viet773092/th9_recylcerV_65134318/MainActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
+<p align="center">
+  <img src="img\b9_Part1_p1.png" alt="Null" width="800" />
+</p>
+<p align="center">
+  <img src="img\b9_Part1_p2.png" alt="Null" width="800" />
+</p>
+
+---
 ### Bài Thực Hành 8 - Custom ListView (BaiTH8_TuyChinhLV)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH8_TuyChinhListView/app/src/main/java/ntu/viet773092/baiTh8_TuyChinhLV_65134318/MainActivity.java)<br>
 <p style="margin-top: 10px;">
