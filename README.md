@@ -39,12 +39,11 @@
 
 ---
 ### Bài Thực Hành 1 - HelloWorld (BaiTH1)
-<br>
 <p style="margin-top: 10px;">
   Ảnh Minh Họa:
 </p>
 <p align="center">
-  <img src="img\helloWorld.png" alt="Null" width="800" />
+  <img src="img\helloWorld.png" alt="Null" width="500" />
 </p>
 
 ---
