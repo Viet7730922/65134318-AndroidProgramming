@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="img\b10_p1.png" width="350" alt="Ảnh 1"></td>
-    <td align="center"><img src="img\b9_p2.png" width="350" alt="Ảnh 2"></td>
+    <td align="center"><img src="img\b10_p2.png" width="350" alt="Ảnh 2"></td>
   </tr>
 </table>
 
