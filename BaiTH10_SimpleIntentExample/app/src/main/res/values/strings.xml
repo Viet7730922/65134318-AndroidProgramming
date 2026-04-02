@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiTH10_SimpleIntentExample</string>
+    <string name="page1_btn">SANG MÀN HÌNH KHÁC</string>
+    <string name="page1">MÀN HÌNH TRANG CHỦ</string>
+    <string name="page2_btn">QUAY LẠI TRANG CHỦ</string>
+    <string name="page2">BẠN ĐANG Ở MÀN HÌNH THỨ 2</string>
+</resources>
