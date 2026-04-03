@@ -9,7 +9,7 @@
 ***Những bài tập thực hành của cá nhân***
 ---
 ### Bài Thực Hành 11 - BaiTH11 Fragment Tĩnh (BaiTH11_FragmentStatically)
-**Đường dẫn của `activity.xml`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH11_FragmentStatically/app/src/main/res/layout/activity_main.xml)<br>
+**Đường dẫn của `activity_main.xml`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH11_FragmentStatically/app/src/main/res/layout/activity_main.xml)<br>
 <table align="center">
   <tr>
     <td align="center"><img src="img\b11_p1.png" width="500" alt="Ảnh 1"></td>
