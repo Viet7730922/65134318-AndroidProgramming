@@ -12,7 +12,7 @@
 **Đường dẫn của `activity_main.xml`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH11_FragmentStatically/app/src/main/res/layout/activity_main.xml)<br>
 <table align="center">
   <tr>
-    <td align="center"><img src="img\b11_p1.png" width="500" alt="Ảnh 1"></td>
+    <td align="center"><img src="img\b11_p1.png" width="700" alt="Ảnh 1"></td>
   </tr>
 </table>
 
@@ -21,8 +21,8 @@
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH10_SimpleIntentExample/app/src/main/java/ntu/viet773092/baiTh10_sIntentEx_65134318/MainActivity.java)<br>
 <table align="center">
   <tr>
-    <td align="center"><img src="img\b10_p1.png" width="350" alt="Ảnh 1"></td>
-    <td align="center"><img src="img\b10_p2.png" width="350" alt="Ảnh 2"></td>
+    <td align="center"><img src="img\b10_p1.png" width="270" alt="Ảnh 1"></td>
+    <td align="center"><img src="img\b10_p2.png" width="270" alt="Ảnh 2"></td>
   </tr>
 </table>
 
