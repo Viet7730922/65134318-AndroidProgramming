@@ -11,12 +11,12 @@
 **Đường dẫn của `FooterFragment.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH13_FragmentEx_Replace/app/src/main/java/ntu/viet773092/baiTh13_FragExReplace_65134318/FooterFragment.java)<br>
 <table align="center">
   <tr>
-    <td align="center"><img src="img\b13_p1.png" width="350" alt="Ảnh 1"></td>
-    <td align="center"><img src="img\b13_p2.png" width="350" alt="Ảnh 2"></td>
+    <td align="center"><img src="img\b13_p1.png" width="250" alt="Ảnh 1"></td>
+    <td align="center"><img src="img\b13_p2.png" width="250" alt="Ảnh 2"></td>
   </tr>
   <tr>
-    <td align="center"><img src="img\b13_p3.png" width="350" alt="Ảnh 3"></td>
-    <td align="center"><img src="img\b13_p4.png" width="350" alt="Ảnh 4"></td>
+    <td align="center"><img src="img\b13_p3.png" width="250" alt="Ảnh 3"></td>
+    <td align="center"><img src="img\b13_p4.png" width="250" alt="Ảnh 4"></td>
   </tr>
 </table>
 
