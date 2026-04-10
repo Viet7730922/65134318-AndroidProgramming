@@ -7,6 +7,15 @@
 </p>
 
 ***Những bài tập thực hành của cá nhân***
+### Bài Thực Hành Bổ Sung - Android Bottom Navigation
+**Đường dẫn của `StoreFragment.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/AndroidBottomNavigation65134318/app/src/main/java/ntu/viet773092/aR_Bottom_Navigation_65134318/fragment/StoreFragment.java)<br>
+<table align="center">
+  <tr>
+    <td align="center"><img src="img\nav_p1.png" width="300" alt="Ảnh 1"></td>
+    <td align="center"><img src="img\nav_p2.png" width="300" alt="Ảnh 2"></td>
+  </tr>
+</table>
+
 ### Bài Thực Hành 13 - Fragment Dynamic Replacing (BaiTH13_FragmentEx_Replace)
 **Đường dẫn của `FooterFragment.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH13_FragmentEx_Replace/app/src/main/java/ntu/viet773092/baiTh13_FragExReplace_65134318/FooterFragment.java)<br>
 <table align="center">
