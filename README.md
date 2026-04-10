@@ -11,8 +11,8 @@
 **Đường dẫn của `StoreFragment.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/AndroidBottomNavigation65134318/app/src/main/java/ntu/viet773092/aR_Bottom_Navigation_65134318/fragment/StoreFragment.java)<br>
 <table align="center">
   <tr>
-    <td align="center"><img src="img\nav_p1.png" width="300" alt="Ảnh 1"></td>
     <td align="center"><img src="img\nav_p2.png" width="300" alt="Ảnh 2"></td>
+    <td align="center"><img src="img\nav_p1.png" width="300" alt="Ảnh 1"></td>
   </tr>
 </table>
 
