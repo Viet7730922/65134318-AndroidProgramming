@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139107829017",
+    "project_id": "thunghiem-5630c",
+    "storage_bucket": "thunghiem-5630c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139107829017:android:4c3e6f2b6e6d4ed2b63188",
+        "android_client_info": {
+          "package_name": "ntu.viet773092.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIB7vo8en0kY3zmYxT52Yi7gM2mf4RsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
