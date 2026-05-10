@@ -18,13 +18,14 @@
   </tr>
 </table>
 <p style="margin-top: 10px;">
-  Ảnh các dữ liệu của TASKS được thiết trong Realtime Database (ViecCanLam) trong Firebase:
+  Ảnh các dữ liệu của TASKS được thiết lập trong Realtime Database (ViecCanLam) trong Firebase:
 </p>
 <table align="center">
   <tr>
     <td align="center"><img src="img\bonus_realTime_t12.png" width="900" alt="Ảnh 1"></td>
   </tr>
 </table>
+
 ---
 ### Bài Thực Hành Bổ Sung - Android Bottom Navigation
 **Đường dẫn của `StoreFragment.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/AndroidBottomNavigation65134318/app/src/main/java/ntu/viet773092/aR_Bottom_Navigation_65134318/fragment/StoreFragment.java)<br>
