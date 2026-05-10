@@ -12,7 +12,6 @@
 <p style="margin-top: 10px;">
   Ảnh dữ liệu của TASKS trong Firebase và ảnh chạy trong ứng dụng ViecCanLam theo thiết đặt dựa trên thời gian thực (Realtime):
 </p>
-<table align="center">
   <h3>Trước khi thay đổi "Việc 2":</h3>
   <tr>
     <td align="center" style="padding-right: 40px;">
@@ -22,9 +21,7 @@
       <img src="img\bonus_3.png" width="250" alt="Ảnh 2">
     </td>
   </tr>
-</table>
 
-<table align="center">
   <h3>Sau khi thay đổi "Việc 2" thành "Cần làm gấp công việc này":</h3>
   <tr>
     <td align="center" style="padding-right: 40px;">
@@ -34,7 +31,6 @@
       <img src="img\bonus_32.png" width="250" alt="Ảnh 4">
     </td>
   </tr>
-</table>
 
 ---
 ### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 2)
