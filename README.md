@@ -7,8 +7,23 @@
 </p>
 
 ***Những bài tập thực hành của cá nhân***
+### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 2)
+**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BonusViecCanLam2/app/src/main/java/ntu/viet773092/bonusViecCanLam2_65134318/MainActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh cửa sổ Logcat hiển thị ứng dụng đã đọc được dữ liệu từ node TASKS trong Firebase:
+</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="img\bonus_fbase_v1.png" width="300" alt="Ảnh 1"></td>
+  </tr>
+</table>
+
+---
 ### Bài Thực Hành Bổ Sung - Android Bottom Navigation
 **Đường dẫn của `StoreFragment.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/AndroidBottomNavigation65134318/app/src/main/java/ntu/viet773092/aR_Bottom_Navigation_65134318/fragment/StoreFragment.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
 <table align="center">
   <tr>
     <td align="center"><img src="img\nav_p2.png" width="300" alt="Ảnh 2"></td>
@@ -16,8 +31,12 @@
   </tr>
 </table>
 
+---
 ### Bài Thực Hành 13 - Fragment Dynamic Replacing (BaiTH13_FragmentEx_Replace)
 **Đường dẫn của `FooterFragment.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH13_FragmentEx_Replace/app/src/main/java/ntu/viet773092/baiTh13_FragExReplace_65134318/FooterFragment.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
 <table align="center">
   <tr>
     <td align="center"><img src="img\b13_p1.png" width="250" alt="Ảnh 1"></td>
@@ -32,6 +51,9 @@
 ---
 ### Bài Thực Hành 12 - Fragment Động (BaiTH11_FragmentDynamic)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH12_FragmentDynamic/app/src/main/java/ntu/viet773092/baith12_fragmentDynamicEx_65134318/MainActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
 <table align="center">
   <tr>
     <td align="center"><img src="img\b12_p1.png" width="700"></td>
@@ -41,6 +63,9 @@
 ---
 ### Bài Thực Hành 11 - Fragment Tĩnh (BaiTH11_FragmentStatically)
 **Đường dẫn của `activity_main.xml`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BaiTH11_FragmentStatically/app/src/main/res/layout/activity_main.xml)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
 <table align="center">
   <tr>
     <td align="center"><img src="img\b11_p1.png" width="700"></td>
@@ -60,6 +85,9 @@
 ---
 ### Bài Thực Hành 9 - Bài Tập Bổ Sung: RSS VNExpress Tin Tức về Sức Khỏe
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/RSSSucKhoeVNExpress/app/src/main/java/ntu/viet773092/rss_sucKhoeVNExpress_65134318/MainActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh Minh Họa:
+</p>
 <table align="center">
   <tr>
     <td align="center"><img src="img\b9_rss_1.png" width="350" alt="Ảnh 1"></td>
