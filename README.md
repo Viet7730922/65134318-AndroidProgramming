@@ -13,6 +13,7 @@
   Ảnh dữ liệu của TASKS trong Firebase và ảnh chạy trong ứng dụng ViecCanLam theo thiết đặt dựa trên thời gian thực (Realtime):
 </p>
 <table align="center">
+  <p style="font-weight:bold">Trước</p>
   <tr>
     <td align="center"><img src="img\bonus_3time.png" width="250" alt="Ảnh 1"></td>
     <td align="center"><img src="img\bonus_3.png" width="250" alt="Ảnh 2"></td>
