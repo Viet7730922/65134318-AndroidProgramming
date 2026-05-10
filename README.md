@@ -18,13 +18,14 @@
     <td align="center"><img src="img\bonus_3time.png" width="250" alt="Ảnh 1"></td>
     <td align="center"><img src="img\bonus_3.png" width="250" alt="Ảnh 2"></td>
   </tr>
+</table>
+<table>
   <h3>Sau khi thay đổi "Việc 2" thành "Cần làm gấp công việc này":</h3>
   <tr>
     <td align="center"><img src="img\bonus_32time.png" width="250" alt="Ảnh 3"></td>
     <td align="center"><img src="img\bonus_32.png" width="250" alt="Ảnh 4"></td>
   </tr>
 </table>
-
 ---
 ### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 2)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BonusViecCanLam2/app/src/main/java/ntu/viet773092/bonusViecCanLam2_65134318/MainActivity.java)<br>
