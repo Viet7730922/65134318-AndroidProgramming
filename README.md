@@ -10,9 +10,9 @@
 ### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 4)
 **Đường dẫn của `ThemTaskActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BonusViecCanLam4/app/src/main/java/ntu/viet773092/bonusViecCanLam4_65134318/ThemTaskActivity.java)<br>
 <p style="margin-top: 10px;">
-  Ảnh minh họa quy trình thêm Công Việc (Task) vào Firebase lần lượt từ trái sang -> phải: 
-  - Ảnh 1 (Màn hình chỉnh hiển thị các Công Việc có từ Phần 3).
-  - Ảnh 2 (Thêm 1 Công Việc mới và Lưu).
+  Ảnh minh họa quy trình thêm Công Việc (Task) vào Firebase lần lượt từ trái sang -> phải:<br>
+  - Ảnh 1 (Màn hình chỉnh hiển thị các Công Việc có từ Phần 3).<br>
+  - Ảnh 2 (Thêm 1 Công Việc mới và Lưu).<br>
   - Ảnh 3 (Trở lại màn hình chính và giao diện đã cập nhật thêm CV mới. Cụ thể là "Securtity Guard").
 </p>
 <div style="display: flex; justify-content: center; gap: 50px; margin: 20px 0;">
