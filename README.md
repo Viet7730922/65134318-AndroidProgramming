@@ -14,11 +14,11 @@
 </p>
 <table align="center">
   <tr>
-    <td align="center"><img src="img\bonus_3t.png" width="250" alt="Ảnh 1"></td>
+    <td align="center"><img src="img\bonus_3time.png" width="250" alt="Ảnh 1"></td>
     <td align="center"><img src="img\bonus_3.png" width="250" alt="Ảnh 2"></td>
   </tr>
   <tr>
-    <td align="center"><img src="img\bonus_32t.png" width="250" alt="Ảnh 3"></td>
+    <td align="center"><img src="img\bonus_32time.png" width="250" alt="Ảnh 3"></td>
     <td align="center"><img src="img\bonus_32.png" width="250" alt="Ảnh 4"></td>
   </tr>
 </table>
