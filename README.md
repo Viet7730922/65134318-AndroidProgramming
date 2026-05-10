@@ -8,7 +8,7 @@
 
 ***Những bài tập thực hành của cá nhân***
 ### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 3)
-**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub]()<br>
+**Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BonusViecCanLam3/app/src/main/java/ntu/viet773092/bonusViecCanLam3_65134318/MainActivity.java)<br>
 <p style="margin-top: 10px;">
   Ảnh dữ liệu của TASKS trong Firebase và ảnh chạy trong ứng dụng ViecCanLam theo thiết đặt dựa trên thời gian thực (Realtime):
 </p>
