@@ -18,7 +18,7 @@
   </tr>
 </table>
 <p style="margin-top: 10px;">
-  Ảnh các dữ liệu của TASKS được thiết lập trong Realtime Database (ViecCanLam) trong Firebase:
+  Ảnh các dữ liệu của TASKS được thiết lập các node trong Realtime Database (ViecCanLam):
 </p>
 <table align="center">
   <tr>
