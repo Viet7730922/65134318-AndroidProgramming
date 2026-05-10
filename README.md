@@ -13,11 +13,12 @@
   Ảnh dữ liệu của TASKS trong Firebase và ảnh chạy trong ứng dụng ViecCanLam theo thiết đặt dựa trên thời gian thực (Realtime):
 </p>
 <table align="center">
-  <h3>Trước:</h3>
+  <h3>Trước khi thay đổi "Việc 2":</h3>
   <tr>
     <td align="center"><img src="img\bonus_3time.png" width="250" alt="Ảnh 1"></td>
     <td align="center"><img src="img\bonus_3.png" width="250" alt="Ảnh 2"></td>
   </tr>
+  <h3>Sau khi thay đổi "Việc 2" thành "Cần làm gấp công việc này":</h3>
   <tr>
     <td align="center"><img src="img\bonus_32time.png" width="250" alt="Ảnh 3"></td>
     <td align="center"><img src="img\bonus_32.png" width="250" alt="Ảnh 4"></td>
