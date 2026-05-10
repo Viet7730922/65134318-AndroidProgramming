@@ -23,6 +23,7 @@
   <img src="img\bonus_32time.png" height="440" style="display: inline-block; margin-right: 80px;">
   <img src="img\bonus_32.png" width="250" style="display: inline-block;">
 </div>
+
 ---
 ### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 2)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BonusViecCanLam2/app/src/main/java/ntu/viet773092/bonusViecCanLam2_65134318/MainActivity.java)<br>
