@@ -14,7 +14,7 @@
 </p>
 <table align="center">
   <tr>
-    <td align="center"><img src="img\bonus_fbase_v1.png" width="500" alt="Ảnh 1"></td>
+    <td align="center"><img src="img\bonus_fbase_v1.png" width="900" alt="Ảnh 1"></td>
   </tr>
 </table>
 
