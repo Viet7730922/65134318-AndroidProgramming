@@ -14,13 +14,13 @@
 </p>
 <h3>Trước khi thay đổi "Việc 2":</h3>
 <div align="center">
-  <img src="img\bonus_3time.png" width="250" style="display: inline-block; margin-right: 40px;">
+  <img src="img\bonus_3time.png" height="440" style="display: inline-block; margin-right: 80px;">
   <img src="img\bonus_3.png" width="250" style="display: inline-block;">
 </div>
 
 <h3>Sau khi thay đổi "Việc 2" thành "Cần làm gấp công việc này":</h3>
 <div align="center">
-  <img src="img\bonus_32time.png" height="460" style="display: inline-block; margin-right: 40px;">
+  <img src="img\bonus_32time.png" height="440" style="display: inline-block; margin-right: 80px;">
   <img src="img\bonus_32.png" width="250" style="display: inline-block;">
 </div>
 ---
