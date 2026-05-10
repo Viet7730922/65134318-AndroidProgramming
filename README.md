@@ -13,9 +13,9 @@
   Ảnh minh họa
 </p>
 <div style="display: flex; justify-content: center; gap: 50px; margin: 20px 0;">
-  <img src="img/bonus_31.png" width="300" alt="Ảnh 1">
-  <img src="img/bonus_32.png" width="300" alt="Ảnh 2">
-  <img src="img/bonus_33.png" width="300" alt="Ảnh 3">
+  <img src="img/bonus_41.png" width="300" alt="Ảnh 1">
+  <img src="img/bonus_42.png" width="300" alt="Ảnh 2">
+  <img src="img/bonus_43.png" width="300" alt="Ảnh 3">
 </div>
 
 ---
