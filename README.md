@@ -14,7 +14,7 @@
 </p>
 <table align="center">
   <tr>
-    <td align="center"><img src="img\bonus_realTime_t2" width="900" alt="Ảnh 1"></td>
+    <td align="center"><img src="img\bonus_realTime_t2.png" width="900" alt="Ảnh 1"></td>
   </tr>
 </table>
 <p style="margin-top: 10px;">
