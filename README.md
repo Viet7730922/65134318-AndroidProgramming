@@ -12,25 +12,31 @@
 <p style="margin-top: 10px;">
   Ảnh dữ liệu của TASKS trong Firebase và ảnh chạy trong ứng dụng ViecCanLam theo thiết đặt dựa trên thời gian thực (Realtime):
 </p>
-  <h3>Trước khi thay đổi "Việc 2":</h3>
-  <tr>
-    <td align="center" style="padding-right: 40px;">
-      <img src="img\bonus_3time.png" width="250" alt="Ảnh 1">
-    </td>
-    <td align="center">
-      <img src="img\bonus_3.png" width="250" alt="Ảnh 2">
-    </td>
-  </tr>
+<style>
+  .image-row {
+    display: flex;
+    gap: 40px; /* khoảng cách giữa 2 ảnh */
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* tự động xuống hàng nếu màn hình nhỏ */
+  }
+  .image-row img {
+    width: 250px;
+    height: auto;
+  }
+</style>
 
-  <h3>Sau khi thay đổi "Việc 2" thành "Cần làm gấp công việc này":</h3>
-  <tr>
-    <td align="center" style="padding-right: 40px;">
-      <img src="img\bonus_32time.png" width="250" alt="Ảnh 3">
-    </td>
-    <td align="center">
-      <img src="img\bonus_32.png" width="250" alt="Ảnh 4">
-    </td>
-  </tr>
+<h3>Trước khi thay đổi "Việc 2":</h3>
+<div class="image-row">
+  <img src="img\bonus_3time.png" alt="Ảnh 1">
+  <img src="img\bonus_3.png" alt="Ảnh 2">
+</div>
+
+<h3>Sau khi thay đổi "Việc 2" thành "Cần làm gấp công việc này":</h3>
+<div class="image-row">
+  <img src="img\bonus_32time.png" alt="Ảnh 3">
+  <img src="img\bonus_32.png" alt="Ảnh 4">
+</div>
 
 ---
 ### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 2)
