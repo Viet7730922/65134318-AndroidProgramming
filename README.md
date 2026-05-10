@@ -14,7 +14,7 @@
 </p>
 <h3>Trước khi thay đổi "Việc 2":</h3>
 <div align="center">
-  <img src="img\bonus_3time.png" height="430" style="display: inline-block; margin-right: 80px;">
+  <img src="img\bonus_3time.png" height="435" style="display: inline-block; margin-right: 80px;">
   <img src="img\bonus_3.png" width="250" style="display: inline-block;">
 </div>
 
