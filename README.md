@@ -7,6 +7,18 @@
 </p>
 
 ***Những bài tập thực hành của cá nhân***
+### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 4)
+**Đường dẫn của `ThemTaskActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BonusViecCanLam4/app/src/main/java/ntu/viet773092/bonusViecCanLam4_65134318/ThemTaskActivity.java)<br>
+<p style="margin-top: 10px;">
+  Ảnh minh họa
+</p>
+<div style="display: flex; justify-content: center; gap: 50px; margin: 20px 0;">
+  <img src="img/bonus_31.png" width="300" alt="Ảnh 1">
+  <img src="img/bonus_32.png" width="300" alt="Ảnh 2">
+  <img src="img/bonus_33.png" width="300" alt="Ảnh 3">
+</div>
+
+---
 ### Bài Thực Hành Bổ Sung - App Viec Can Lam (Phần 3)
 **Đường dẫn của `MainActivity.java`:** [Click here to view on GitHub](https://github.com/Viet7730922/65134318-AndroidProgramming/blob/main/BonusViecCanLam3/app/src/main/java/ntu/viet773092/bonusViecCanLam3_65134318/MainActivity.java)<br>
 <p style="margin-top: 10px;">
